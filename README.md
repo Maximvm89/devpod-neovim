@@ -110,7 +110,7 @@ devpod provider list
 1. Start Docker
 1. In the terminal, run the following command to build the devpod: 
 ```
-devpod up https://github.com/beckitrue/devpod-neovim --provider docker --dotfiles https://github.com/beckitrue/dotfiles ide use none
+devpod up https://github.com/beckitrue/devpod-neovim --provider docker --dotfiles https://github.com/Maximvm89/dotfiles ide use none
 ```
 
 ### Initial Run of Neovim
